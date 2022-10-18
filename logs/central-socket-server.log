@@ -1,0 +1,74 @@
+2022-10-18T16:22:28.962Z | error	|| uncaughtException: Cannot create property 'Symbol(level)' on string 'Hi to every body'
+TypeError: Cannot create property 'Symbol(level)' on string 'Hi to every body'
+    at DerivedLogger.log (/home/tungnt/learn/socketServer/node_modules/winston/lib/winston/logger.js:214:20)
+    at Namespace.<anonymous> (/home/tungnt/learn/socketServer/index.js:15:10)
+    at Namespace.emit (node:events:390:28)
+    at Namespace.emitReserved (/home/tungnt/learn/socketServer/node_modules/socket.io/dist/typed-events.js:56:22)
+    at /home/tungnt/learn/socketServer/node_modules/socket.io/dist/namespace.js:234:22
+    at processTicksAndRejections (node:internal/process/task_queues:78:11)
+2022-10-18T16:42:06.937Z | info	|| Hi to every body
+2022-10-18T16:42:26.504Z | info	|| user disconnected
+2022-10-18T16:42:26.790Z | info	|| Hi to every body
+2022-10-18T16:55:19.971Z | info	|| Hi to every body
+2022-10-18T16:55:45.938Z | info	|| Hi to every body
+2022-10-18T16:56:00.960Z | info	|| Hi to every body
+2022-10-18T16:56:56.989Z | info	|| Hi to every body
+2022-10-18T17:04:55.616Z | error	|| uncaughtException: Cannot read properties of undefined (reading 'find')
+TypeError: Cannot read properties of undefined (reading 'find')
+    at writeUser (/home/tungnt/learn/socketServer/index.js:46:26)
+    at Object.<anonymous> (/home/tungnt/learn/socketServer/index.js:57:1)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:17:47
+2022-10-18T17:05:58.950Z | info	|| Hi to every body
+2022-10-18T17:06:53.987Z | info	|| Hi to every body
+2022-10-18T17:07:33.936Z | info	|| Hi to every body
+2022-10-18T17:08:11.963Z | info	|| Hi to every body
+2022-10-18T17:08:33.951Z | info	|| Hi to every body
+2022-10-18T17:10:25.957Z | info	|| Hi to every body
+2022-10-18T17:10:56.975Z | info	|| Hi to every body
+2022-10-18T17:17:53.962Z | info	|| Hi to every body
+2022-10-18T17:20:40.956Z | info	|| Hi to every body
+2022-10-18T17:24:58.005Z | info	|| Hi to every body
+2022-10-18T17:25:04.937Z | info	|| Hi to every body
+2022-10-18T17:25:32.941Z | info	|| Hi to every body
+2022-10-18T17:25:54.941Z | info	|| Hi to every body
+2022-10-18T17:26:14.002Z | info	|| Hi to every body
+2022-10-18T17:26:49.957Z | info	|| Hi to every body
+2022-10-18T17:27:42.957Z | info	|| Hi to every body
+2022-10-18T17:28:16.995Z | info	|| Hi to every body
+2022-10-18T17:28:36.934Z | info	|| Hi to every body
+2022-10-18T17:30:10.023Z | info	|| Hi to every body
+2022-10-18T17:30:19.957Z | info	|| Hi to every body
+2022-10-18T17:30:47.959Z | info	|| Hi to every body
+2022-10-18T17:31:34.959Z | info	|| Hi to every body
+2022-10-18T17:31:42.953Z | info	|| Hi to every body
+2022-10-18T17:33:24.949Z | info	|| Hi to every body
+2022-10-18T17:33:28.483Z | info	|| user disconnected
+2022-10-18T17:33:28.850Z | info	|| Hi to every body
+2022-10-18T17:33:34.787Z | info	|| chat message 
+2022-10-18T17:48:17.998Z | info	|| Hi to every body
+2022-10-18T17:48:21.316Z | info	|| Hi to every body
+2022-10-18T17:48:51.631Z | info	|| user disconnected
+2022-10-18T17:48:51.953Z | info	|| Hi to every body
+2022-10-18T17:49:38.618Z | info	|| user disconnected
+2022-10-18T17:49:38.914Z | info	|| Hi to every body
+2022-10-18T17:50:02.238Z | info	|| user disconnected
+2022-10-18T17:50:02.504Z | info	|| Hi to every body
+2022-10-18T17:50:04.807Z | info	|| user disconnected
+2022-10-18T17:50:05.118Z | info	|| Hi to every body
+2022-10-18T17:50:32.943Z | info	|| user disconnected
+2022-10-18T17:50:33.227Z | info	|| Hi to every body
+2022-10-18T17:50:44.849Z | info	|| user disconnected
+2022-10-18T17:50:45.075Z | info	|| Hi to every body
+2022-10-18T17:50:47.297Z | info	|| chat message 
+2022-10-18T17:52:17.376Z | info	|| Hi to every body
+2022-10-18T17:52:18.925Z | info	|| Hi to every body
+2022-10-18T17:52:19.624Z | info	|| user disconnected
+2022-10-18T17:52:19.828Z | info	|| Hi to every body
+2022-10-18T17:52:22.902Z | info	|| user disconnected
+2022-10-18T17:52:23.059Z | info	|| Hi to every body
+2022-10-18T17:53:25.795Z | info	|| user disconnected
